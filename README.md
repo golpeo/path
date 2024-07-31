@@ -3,13 +3,13 @@
 ### 1.- WEB Basics
 - **HTML & CSS**
 - **CSS framework/processor**
-    * tailwind
+    * Tailwind
     * SASS
 - **Tools**
     * Git
-    * editor extensions -> emmet/live server/prettier
+    * Editor extensions -> emmet/live server/prettier
     * AI Tools -> copilot/chatgpt
-    * markdown
+    * Markdown
 - **JS**
     * Fundamentals 
         * loops
@@ -25,20 +25,20 @@
 
 #### Checkpoint & Practice 1
 
->dev env: use of git to create, edit, push branches, 
-test: local dev server
-static site: knoledge of html/css and create basic layouts
-dynamic pages: add modals, pop ups and form validation
-css basics: create layouts using tailwind and/or SASS
-HTTP: use fetch to get json apis
+>dev env: use of git to create, edit, push branches<br>
+test: local dev server<br>
+static site: knoledge of html/css and create basic layouts<br>
+dynamic pages: add modals, pop ups and form validation<br>
+css basics: create layouts using tailwind and/or SASS<br>
+HTTP: use fetch to get json apis<br>
 basic deployment: vercel, netlify
 
-> Checkpoint 1 test projects: 
--(html) Personal portfolio site
--(html) Responsive blog layout
--(html) Landing page
--(js) Todo list
--(js) Weather app
+> Checkpoint 1 test projects: <br>
+-(html) Personal portfolio site<br>
+-(html) Responsive blog layout<br>
+-(html) Landing page<br>
+-(js) Todo list<br>
+-(js) Weather app<br>
 -(js) Quiz app
 
 ### 2.- WEB advanced
@@ -57,19 +57,19 @@ basic deployment: vercel, netlify
 - **Testing**
 
 #### Checkpoint & Practice 2
-> Framework and tooling: understand react and its ecosystem, NPM, CLI tools and understand module bundlers like vite.
-Understand difference between Single Page Applications, Static Site Generators, and Server-side Rendered Applications.
-Use most common web apis in browser context.
+> Framework and tooling: understand react and its ecosystem, NPM, CLI tools and understand module bundlers like vite.<br>
+Understand difference between Single Page Applications, Static Site Generators, and Server-side Rendered Applications.<br>
+Use most common web apis in browser context.<br>
 Typescript?
 
-> Checkpoint 2 test projects: 
--(react) Todo list
--(react) Recipe finder
--(react) E-commerce storefront
--(react) Expense tracker
--(nextJS) Blog
--(nextJS) E-commerce full store
--(nextJS) Event booking platform
+> Checkpoint 2 test projects: <br>
+-(react) Todo list<br>
+-(react) Recipe finder<br>
+-(react) E-commerce storefront<br>
+-(react) Expense tracker<br>
+-(nextJS) Blog<br>
+-(nextJS) E-commerce full store<br>
+-(nextJS) Event booking platform<br>
 -(nextJS) Recipe sharing platform
 
 ### 3.- Backend
@@ -94,24 +94,24 @@ Typescript?
     * auth libraries
 
 #### Checkpoint & Practice 3 
-> Server side runtime & framework: node and express.
-Build a REST API and understand HTTP request/response cycle.
-Database: Knowledge of postgres and/or mongoDB use of an ORM like prisma or mongoose.
-Auth & common auth libraries.
-Backend as a service like firebase/supabase?
-Backend deployment?
+> Server side runtime & framework: node and express.<br>
+Build a REST API and understand HTTP request/response cycle.<br>
+Database: Knowledge of postgres and/or mongoDB use of an ORM like prisma or mongoose.<br>
+Auth & common auth libraries.<br>
+Backend as a service like firebase/supabase?<br>
+Backend deployment?<br>
 
-> Checkpoint 3 test projects: 
--CRUD basics
--Address book
--Library management system
--Event registration system
--Online store database
--Movie rental app
--Real time chat
--Blog API
--Todo list API
--Social media API
+> Checkpoint 3 test projects: <br>
+-CRUD basics<br>
+-Address book<br>
+-Library management system<br>
+-Event registration system<br>
+-Online store database<br>
+-Movie rental app<br>
+-Real time chat<br>
+-Blog API<br>
+-Todo list API<br>
+-Social media API<br>
 -Job board API
 
 ### 4.- CS fundamentals 
