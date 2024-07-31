@@ -180,24 +180,24 @@ Backend deployment?<br>
 JS interview questions, Practice code exercices, Practice projects, Data structures & algorithms, Project based learning, design patterns
 
 ##### Learning sites
-https://thevalleyofcode.com/
-https://roadmap.sh/frontend
-https://roadmap.sh/full-stack
+* https://thevalleyofcode.com/
+* https://roadmap.sh/frontend
+* https://roadmap.sh/full-stack
 
 ##### Project based learning
-https://github.com/Xtremilicious/projectlearn-project-based-learning
+* https://github.com/Xtremilicious/projectlearn-project-based-learning
 
 ##### Interview prep
-https://www.codewars.com/
-https://leetcode.com/
-https://www.hackerrank.com/
-https://codeforces.com/
-https://interviewing.io/mocks
-https://edabit.com/challenges
-https://www.codechef.com/
-https://exercism.org/
-https://daily.dev/blog/fun-coding-problems-from-easy-to-hard
-https://www.freecodecamp.org/learn/coding-interview-prep/
-https://www.w3resource.com/javascript-exercises/
+* https://www.codewars.com/
+* https://leetcode.com/
+* https://www.hackerrank.com/
+* https://codeforces.com/
+* https://interviewing.io/mocks
+* https://edabit.com/challenges
+* https://www.codechef.com/
+* https://exercism.org/
+* https://daily.dev/blog/fun-coding-problems-from-easy-to-hard
+* https://www.freecodecamp.org/learn/coding-interview-prep/
+* https://www.w3resource.com/javascript-exercises/
 
 <!-- prettier-ignore-end -->
