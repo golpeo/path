@@ -1,29 +1,41 @@
 <!-- prettier-ignore-start -->
 # Path
 ### 1.- WEB Basics
-- **HTML & CSS**
+- **HTML & CSS** [★][♥]
 - **CSS framework/processor**
-    * Tailwind
-    * SASS
+    * Tailwind [✘]
+    * SASS [★][♥]
 - **Tools**
-    * Git
-    * Editor extensions -> emmet/live server/prettier
+    * Git [★][♥]
+    * Editor extensions -> emmet/live server/prettier [★][♥]
     * AI Tools -> copilot/chatgpt
-    * Markdown
-- **JS**
-    * Fundamentals 
-        * loops
-        * functions 
-        * conditionals
-        * Higher order functions
-        * Fetch API
-        * Promises 
-        * Async/await
-    * JSON
-    * HTTP Basics
-    * DOM
+    * Markdown [★][♥]
+- **JS**[★][♥]
+    * Fundamentals [★][♥]
+        * loops [★][♥]
+        * functions [★][♥]
+        * conditionals [★][♥]
+        * Higher order functions [★][♥]
+        * Fetch API [♥]
+        * Promises [✘]
+        * Async/await [✘]
+        * Arrow funtions [✘]
+    * JSON [★][♥]
+    * HTTP Basics [★][♥]
+    * DOM [★][♥]
 
 #### Checkpoint & Practice 1
+
+es para lo que te platique alla en gdl de ponerme back on track, arme un doc con los puntos importantes, me ayudaria un monton si le pudieras dar una checada y que me des norte si es lo que deberia de aprender.
+
+https://github.com/golpeo/path
+
+el gol es estar contratable e interview ready en 3 meses, junior dev al menos
+
+la neta me esta costando un huevo, aunque ya he trabajado con gran parte de esa tech el sindrome del impostor anda con todo 
+
+pero ya mucho de ahi lo se o he usado, cuestion de aprender lo nuevo y refrescar lo que ya se con los updates de oos ultimos años
+
 
 >dev env: use of git to create, edit, push branches<br>
 test: local dev server<br>
@@ -43,18 +55,18 @@ basic deployment: vercel, netlify
 
 ### 2.- WEB advanced
 
-- **Frameworks**
-    * React & ecosystem
-    * Nextjs
-- **Typescript**
-- **Web APIs**
-    * canvas
-    * geo 
-    * storage
-    * workers 
-    * sockets 
-    * audio/video
-- **Testing**
+- **Frameworks**[✘]
+    * React & ecosystem[✘]
+    * Nextjs[✘]
+- **Typescript**[✘]
+- **Web APIs** 
+    * canvas [♥]
+    * geo [✘]
+    * storage[♥]
+    * workers [✘]
+    * sockets [✘]
+    * audio/video[✘]
+- **Testing**[✘]
 
 #### Checkpoint & Practice 2
 > Framework and tooling: understand react and its ecosystem, NPM, CLI tools and understand module bundlers like vite.<br>
@@ -73,25 +85,25 @@ Typescript?
 -(nextJS) Recipe sharing platform
 
 ### 3.- Backend
-- **Node** 
-    * express
-- **REST APIs**
-    * http methods
-    * codes
-- **SQL**
+- **Node** [★][♥]
+    * express [★][♥]
+- **REST APIs** [★][♥]
+    * http methods [★][♥]
+    * codes [★][♥]
+- **SQL** [★][♥]
 - **databases**
-    * postgres
-    * mongodb 
-    * firebase
-    * graphql
-    * ORM 
-        * mongoose 
-        * prisma
+    * postgres [★][♥]
+    * mongodb [♥]
+    * firebase [✘]
+    * graphql [✘]
+    * ORM [✘]
+        * mongoose [♥]
+        * prisma [✘]
 - **Auth**
-    * cookies
-    * json web tokens
-    * Oauth
-    * auth libraries
+    * cookies [★][♥]
+    * json web tokens [✘]
+    * Oauth [✘]
+    * auth libraries [✘]
 
 #### Checkpoint & Practice 3 
 > Server side runtime & framework: node and express.<br>
@@ -150,7 +162,7 @@ Backend deployment?<br>
 
 ### 5.- Maybe/Extras 
 
-#### Deploy/devops
+#### Deploy/devops [✘]
 
 - AWS
     * EC2
@@ -161,7 +173,7 @@ Backend deployment?<br>
     * Docker
     * kubernetes
 
-#### Mobile
+#### Mobile [✘]
 - React native
 - Flutter
 - PWA
