@@ -26,17 +26,6 @@
 
 #### Checkpoint & Practice 1
 
-es para lo que te platique alla en gdl de ponerme back on track, arme un doc con los puntos importantes, me ayudaria un monton si le pudieras dar una checada y que me des norte si es lo que deberia de aprender.
-
-https://github.com/golpeo/path
-
-el gol es estar contratable e interview ready en 3 meses, junior dev al menos
-
-la neta me esta costando un huevo, aunque ya he trabajado con gran parte de esa tech el sindrome del impostor anda con todo 
-
-pero ya mucho de ahi lo se o he usado, cuestion de aprender lo nuevo y refrescar lo que ya se con los updates de oos ultimos años
-
-
 >dev env: use of git to create, edit, push branches<br>
 test: local dev server<br>
 static site: knoledge of html/css and create basic layouts<br>
